@@ -18,3 +18,6 @@ Flying shoes - if you fell to jump high, go back to the stage where you fell
 Back in time - will take one step back
 
 Compass - will show the way to where
+
+more info: 
+https://chatter-script-d0f.notion.site/LIFE-WHICH-WAY-IS-LEFT-e27a25ccdc2f44538b44d7e50967e114?pvs=4
